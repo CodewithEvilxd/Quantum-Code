@@ -1166,8 +1166,8 @@ wheels = [
 ]
 
 [[package]]
-name = "multi-mcp"
-version = "0.1.1"
+name = "quantum-code"
+version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "fastapi" },
