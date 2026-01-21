@@ -17,7 +17,6 @@ from quantum_code.tools.debate import debate_impl
 from quantum_code.tools.models import models_impl
 from quantum_code.utils.helpers import get_version
 from quantum_code.utils.mcp_decorator import mcp_monitor
-from quantum_code.utils.mcp_factory import create_mcp_wrapper
 from quantum_code.utils.paths import LOGS_DIR, ensure_logs_dir
 
 logger = logging.getLogger(__name__)
